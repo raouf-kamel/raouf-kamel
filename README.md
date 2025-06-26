@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi there, I'm Raouf Kamel</h1>
-<h3 align="center">Mobile & Backend Developer | Android, Laravel, Ktor 🚀</h3>
+<h3 align="center">Android Developer | Jetpack Compose • Kotlin • Clean Architecture 🚀</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=raouf-kamel&label=Profile%20views&color=0e75b6&style=flat" alt="raouf-kamel" />
@@ -9,29 +9,25 @@
 
 ## 🧠 About Me
 
-- 🔧 I'm building smart Android apps using Jetpack Compose & clean architecture
-- 💻 Also working on Laravel/Ktor backends and REST APIs
-- 🎯 Passionate about scalable systems and beautiful UI
-- 📲 Currently focused on multi-module architecture and modern Android development
-- 🤝 Looking to collaborate on open-source Android & backend projects
+- 🔧 Building smart & modern Android apps using Jetpack Compose and Clean Architecture  
+- 📱 Passionate about scalable mobile codebases and delightful UI/UX  
+- 📦 Currently exploring multi-module architecture and advanced Android testing  
+- 🤝 Open to collaborating on Android open-source projects
 
 ---
 
-## 💼 Tech Stack
+## 🛠️ Tech Stack
 
-### 👨‍💻 Mobile:
-- Kotlin, Jetpack Compose, Room, DataStore
-- Dependency Injection: Hilt, Koin
-- Architecture: MVVM, Clean Architecture
+### 💻 Mobile:
+- **Languages & UI**: Kotlin, Jetpack Compose, XML  
+- **Architecture**: MVVM, Clean Architecture  
+- **Data**: Room, DataStore, SQLite  
+- **Dependency Injection**: Koin, Hilt  
 
-### 🌐 Backend:
-- Laravel, PHP, Ktor
-- REST APIs, Auth, Queues, Notifications
-
-### 🧪 Tools & Skills:
-- Git, GitHub, CI/CD
-- SQL, Firebase, Mailtrap, Postman
-- Testing: JUnit, MockK
+### 🧪 Tools:
+- Git, GitHub, Gradle, Postman  
+- Firebase, SQL, Mailtrap  
+- Testing: JUnit, MockK  
 
 ---
 
@@ -45,13 +41,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raouf-kamel&layout=compact" alt="Top Languages" />
 </p>
 
- 
-
 ---
 
 ## 📫 Contact Me
 
-- 📧 Email: `raoufkamel2013@gmail.com`
+- 📧 Email: `raoufkamel2013@gmail.com`  
 - 💼 LinkedIn: [linkedin.com/in/raouf-kamel](https://linkedin.com/in/raouf-kamel)
 
 ---
